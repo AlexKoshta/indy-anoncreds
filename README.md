@@ -43,7 +43,7 @@ Anonymous Credentials requires a cryptographic framework. We have tested it with
 ```
 git clone https://github.com/hyperledger/indy-anoncreds.git
 cd indy-anoncreds
-sh setup-charm.sh
+bash setup-charm.sh
 ```
 
 ## Installation on Mac
